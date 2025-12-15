@@ -1,4 +1,4 @@
-# Environmental-modeling-waste-python
+# Environmental Modeling (Python)
 # 🌎 Modelamiento Ambiental con Python – Análisis de Datos de Residuos Sólidos  
 
 ## 🧭 Descripción del proyecto  
